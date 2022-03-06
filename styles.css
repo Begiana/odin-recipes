@@ -12,7 +12,7 @@ ul,ol{display: grid;
     place-items: center;
    
    }
-
+.ul {list-style: none;}
 .boxA
 {
     background-color: blanchedalmond;
