@@ -1,0 +1,28 @@
+.basic
+{   max-width: 100%;
+    font-family:Courier New,Lucida Console,Monaco,monospace;
+    background-color:DarkGoldenRod;
+    color:Cornsilk;
+    margin: 10px;
+    text-align: center;
+
+
+}
+ul,ol{display: grid; 
+    place-items: center;
+   }
+
+.boxA
+{
+    display:flex;
+    height:600px;
+    width:fit-content;
+    
+    margin:auto;
+}
+.box1,
+.box2
+{   padding:50px;
+    width :600px;
+    height:800px;
+}
